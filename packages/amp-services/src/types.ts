@@ -1,6 +1,7 @@
 export interface IHub {
     name: string,
-    id: string
+    id: string,
+    age: number
 }
 
 export interface IGetHubs {
