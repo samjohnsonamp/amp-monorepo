@@ -1,0 +1,7 @@
+{
+    "eslint.workingDirectories": [
+      {"directory": "packages/amp-services", "changeProcessCWD": true},
+      {"directory": "packages/media-hub-ui", "changeProcessCWD": true},
+      {"directory": "packages/utils", "changeProcessCWD": true}
+    ]
+  }
